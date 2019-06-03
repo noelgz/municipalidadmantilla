@@ -1,0 +1,916 @@
+# Copyright (C) 2018 ThemePacific
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsMagZ 1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/newsmagz\n"
+"POT-Creation-Date: 2018-05-03 17:38:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:33 index.php:40 search.php:39
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:34 index.php:41 search.php:40
+msgid "Next page"
+msgstr ""
+
+#: archive.php:35 index.php:42 search.php:41
+msgid "Page"
+msgstr ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:84 comments.php:85
+msgid "Name"
+msgstr ""
+
+#: comments.php:92
+msgid "Email"
+msgstr ""
+
+#: comments.php:93
+msgid "Your E-mail"
+msgstr ""
+
+#: comments.php:100 comments.php:101
+msgid "Website"
+msgstr ""
+
+#: comments.php:110
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:111
+msgid "Your Message"
+msgstr ""
+
+#: functions.php:58
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:114
+msgid "Banner"
+msgstr ""
+
+#: functions.php:181
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:191
+msgid "Sidebar Alt"
+msgstr ""
+
+#: functions.php:201
+msgid "Header Ad "
+msgstr ""
+
+#: functions.php:218
+msgid "Footer Block 1"
+msgstr ""
+
+#: functions.php:221
+msgid "Footer Block 2"
+msgstr ""
+
+#: functions.php:224
+msgid "Footer Block 3"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:259
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:260
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:261
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:309
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:310
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:471 inc/customizer/customizer.php:133
+#: inc/customizer/customizer.php:322
+msgid "Block 2"
+msgstr ""
+
+#: functions.php:475 inc/customizer/customizer.php:139
+#: inc/customizer/customizer.php:325
+msgid "Block 3"
+msgstr ""
+
+#: functions.php:479 inc/customizer/customizer.php:145
+#: inc/customizer/customizer.php:328
+msgid "Block 4"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:5
+msgid "About NewsmagZ"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:29
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:30
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:40
+msgid "Welcome to NewsmagZ!"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:42
+msgid ""
+"Our best Ultra Fast Blog magazine WordPress theme, newsmagz! Get the best "
+"experience using newsmagz and that is why we have created this page with all "
+"the necessary informations for you. ThemePacific team hopes that you will "
+"enjoy using newsmagz, as much as we enjoy creating it."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:50 inc/customizer/customizer.php:31
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:53
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:56
+msgid "Support"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:59
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:71
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:73
+msgid ""
+"We are Highly recommending you to begin with this, read the full theme "
+"documentation to understand the basics and even more details about how to "
+"use our theme."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:75
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:79
+msgid "Demo Content"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:81
+msgid ""
+"If you are a WordPress beginner it's highly recomended to install the Demo "
+"Content. This file includes: Menus, Posts, Pages, Widgets, etc. Read More "
+"about demo import in the "
+msgstr ""
+
+#: inc/about/about-newsmagz.php:82
+msgid "Theme Documentation."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:84
+msgid "Download Import File"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:88
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:90
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme. After reading the Theme Documentation we recommend you to open the "
+"Theme Customizer and play with some options."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:92
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:98
+msgid "NewsmagZ Pro - Fastest Premium WP Theme"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:100
+msgid ""
+"NewsmagZ Pro is an Ultra Fast Responsive free WordPress theme for News, News "
+"Paper, Editorial Magazines, Tech blogs, Personal Blogs, Fashion blogs, "
+"Financial blogs and Photography, Photo gallery Blogs."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:102
+msgid ""
+"Theme is very responsive, highly customizable built with Bootstrap. It comes "
+"with the flat, minimalist, magazine style homepage Design with boxed layout, "
+"Featured Grid Slider, Multi Style Drop-down Menu."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:103
+msgid "NewsmagZ Pro Theme"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:104
+msgid "More details in the theme Documentation."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:114
+msgid "NewsmagZ Pro."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:116
+msgid "Download Theme"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:129
+msgid "Recommended Plugins are fully supported by NewsmagZ theme."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:136
+msgid "Tiled Gallery Carousel Without JetPack"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:136
+msgid ""
+"Tiled Gallery with carousel will completely transform your galleries to new "
+"look and your users will love this."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:138
+msgid "PostViews Count & Popular Posts Widgets"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:138
+msgid ""
+"This Plugin based on Post Views will help sites to add post views and show "
+"Popular posts in Sidebar or anywhere. ."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:141
+msgid " WordPress Review"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:141
+msgid ""
+"WordPress Review and User Rating Plugin (TP WP Reviews) will help sites to "
+"add reviews to get more users without affecting page load speed.  "
+msgstr ""
+
+#: inc/about/about-newsmagz.php:143
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:143
+msgid ""
+"WooCommerce is a powerful, extendable eCommerce plugin that helps you sell "
+"anything. Beautifully."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:159
+msgid "Forums"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:162
+msgid ""
+"Use Our Dedicated Support forums to ask your questions. Before Posting "
+"Questions, try the forum search to get the answers."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:164
+msgid "Go to Support Forums"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:171 inc/customizer/newsmagz-info.php:42
+msgid "Documentation"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:174
+msgid ""
+"Need more details? Please check out Theme Documentation for detailed "
+"information."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:176
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:183
+msgid "Changelog"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:186
+msgid ""
+"Stay always up to date, check for fixes, updates and some new feauters you "
+"should not miss."
+msgstr ""
+
+#: inc/about/about-newsmagz.php:188
+msgid "See Changelog"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:194
+msgid "Rating"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:197
+msgid ""
+"Are you enjoying newsmagz?\r\n"
+"Rate our theme on WordPress.org. We'd really appreciate it!"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:200
+msgid "Post Review"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:216
+msgid "Get NewsmagZ Pro"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:221
+msgid "Free"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:224
+msgid "Premium"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:378
+msgid "Installed"
+msgstr ""
+
+#: inc/about/about-newsmagz.php:381
+msgid "Install Now"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:56
+#: inc/hooks/footer.php:126
+msgid "newsmagz"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:125
+msgid "Add new field"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:183
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:217
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:195
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:223
+msgid "Delete field"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/newsmagz-general-control.php:254
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:20
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/customizer.php:53 inc/customizer/customizer.php:168
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+msgid "Featured Blocks"
+msgstr ""
+
+#: inc/customizer/customizer.php:65
+msgid "HomePage Blocks"
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Featured Home Big Grid"
+msgstr ""
+
+#: inc/customizer/customizer.php:84
+msgid "Featured Home Slider Carousel"
+msgstr ""
+
+#: inc/customizer/customizer.php:89
+msgid "Featured Home Slider Big"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/customizer.php:104
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:105
+msgid "Set Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:111 inc/customizer/customizer.php:118
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:112 inc/customizer/customizer.php:119
+msgid "Disable Sticky Navigation Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:127 inc/customizer/customizer.php:314
+msgid "Block 1"
+msgstr ""
+
+#: inc/customizer/customizer.php:151
+msgid "Block 5"
+msgstr ""
+
+#: inc/customizer/customizer.php:157
+msgid "Single post settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:163
+msgid "HomePage Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:165
+msgid "Set the Home Page Layout.Your theme supports a static front page."
+msgstr ""
+
+#: inc/customizer/customizer.php:170
+msgid "General Options."
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Use Magazine Style frontpage?"
+msgstr ""
+
+#: inc/customizer/customizer.php:198
+msgid "Site Layout Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:199
+msgid "Choose Site Layout Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:201
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:202
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:248 inc/customizer/customizer.php:272
+#: inc/customizer/customizer.php:298 inc/hooks/header.php:389
+#: inc/hooks/header.php:444 index.php:32 template-parts/featured-big.php:13
+msgid "Latest Topics"
+msgstr ""
+
+#: inc/customizer/customizer.php:391
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:399
+msgid "Categories Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:425
+msgid " %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:439
+msgid "Home Blocks, Widget Title color"
+msgstr ""
+
+#: inc/customizer/customizer.php:445
+msgid "Top slider's posts title color"
+msgstr ""
+
+#: inc/customizer/customizer.php:453
+msgid "Block's posts title color"
+msgstr ""
+
+#: inc/customizer/customizer.php:462
+msgid "Disable Sticky Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:469 inc/customizer/customizer.php:486
+#: inc/customizer/customizer.php:518 inc/customizer/customizer.php:550
+msgid "Disable section"
+msgstr ""
+
+#: inc/customizer/customizer.php:474 inc/customizer/customizer.php:492
+#: inc/customizer/customizer.php:524 inc/customizer/customizer.php:558
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:479 inc/customizer/customizer.php:498
+#: inc/customizer/customizer.php:530 inc/customizer/customizer.php:564
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/customizer.php:504 inc/customizer/customizer.php:536
+msgid "Number of posts in this section"
+msgstr ""
+
+#: inc/customizer/customizer.php:505 inc/customizer/customizer.php:537
+#: inc/customizer/customizer.php:571
+msgid "To display all posts, set this field to -1."
+msgstr ""
+
+#: inc/customizer/customizer.php:570
+msgid "Number of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:583
+msgid "Number of posts in each slide"
+msgstr ""
+
+#: inc/customizer/customizer.php:597
+msgid "Hide author's description?"
+msgstr ""
+
+#: inc/customizer/customizer.php:598
+msgid "Check this box to hide the author's description Box on single page."
+msgstr ""
+
+#: inc/customizer/customizer.php:605
+msgid "Hide related posts?"
+msgstr ""
+
+#: inc/customizer/customizer.php:606
+msgid "Check this box to remove Related posts on single page."
+msgstr ""
+
+#: inc/customizer/customizer.php:613
+msgid "Hide Featured Image on single page?"
+msgstr ""
+
+#: inc/customizer/customizer.php:614
+msgid "Check this box to hide Featured Image on single page."
+msgstr ""
+
+#: inc/customizer/newsmagz-info.php:46
+msgid "Demo"
+msgstr ""
+
+#: inc/customizer/newsmagz-info.php:50
+msgid "Theme Details"
+msgstr ""
+
+#: inc/customizer/newsmagz-info.php:54
+msgid "Leave a review"
+msgstr ""
+
+#: inc/customizer/newsmagz-info.php:96
+msgid "All"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/functions/custom-functions.php:146
+msgctxt "comments title"
+msgid " %1$s Comment"
+msgstr ""
+
+#. translators: 1: number of comments
+#: inc/functions/custom-functions.php:150
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1- comment author link, 2 - comment date, 3 - comment time
+#: inc/functions/custom-functions.php:179
+msgid ""
+"<h4 class=\"media-heading\">%1$s</h4><a href=\"%4$s\"><span class=\"comment-"
+"date\">(%2$s - %3$s)</span></a>"
+msgstr ""
+
+#: inc/functions/custom-functions.php:179
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions/custom-functions.php:185
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/custom-functions.php:355
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/functions/custom-functions.php:360
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#. translators: Categories list
+#: inc/hooks/footer.php:43
+msgid "Widgets Area 1"
+msgstr ""
+
+#: inc/hooks/footer.php:49
+msgid "Widgets Area 2"
+msgstr ""
+
+#: inc/hooks/footer.php:55
+msgid "Widgets Area 3"
+msgstr ""
+
+#. translators: 1 - Theme name , 2 - WordPress link
+#: inc/hooks/footer.php:124
+msgid " %4$s %1$s %5$s  %2$s Powered by %3$s"
+msgstr ""
+
+#: inc/hooks/footer.php:125
+msgid "&copy;  "
+msgstr ""
+
+#: inc/hooks/footer.php:126
+msgid "- Designed By"
+msgstr ""
+
+#: inc/hooks/footer.php:126
+msgid "Free NewsmagZ News Magazine WordPress Theme"
+msgstr ""
+
+#: inc/hooks/footer.php:127
+msgid "WordPress"
+msgstr ""
+
+#: inc/hooks/header.php:78 inc/hooks/header.php:217
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/header.php:106
+msgid "Header Social Links Menu"
+msgstr ""
+
+#: inc/hooks/header.php:121
+msgid "Trending"
+msgstr ""
+
+#: inc/hooks/header.php:288
+msgid "No Active Widgets in Sidebar Alt"
+msgstr ""
+
+#: inc/prevdem_tpacific/prevdem-functions.php:82
+msgid "Search"
+msgstr ""
+
+#: inc/prevdem_tpacific/prevdem-functions.php:83
+msgid "Pages"
+msgstr ""
+
+#: inc/prevdem_tpacific/prevdem-functions.php:84
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/widgets.php:34
+msgid "A Widget to dispaly Category Posts With Thumbs"
+msgstr ""
+
+#: inc/widgets/widgets.php:35
+msgid "newsmagz - Category Posts Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:49
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:147
+msgid "Category Name"
+msgstr ""
+
+#: inc/widgets/widgets.php:151
+msgid "Enter category Name:"
+msgstr ""
+
+#: inc/widgets/widgets.php:157
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: inc/widgets/widgets.php:209
+msgid "NewsMagZ: Social Icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:219
+msgid "Social Icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:278
+msgid "Social"
+msgstr ""
+
+#: inc/widgets/widgets.php:282
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/widgets.php:286
+msgid "RSS:"
+msgstr ""
+
+#: inc/widgets/widgets.php:290
+msgid "Facebook : "
+msgstr ""
+
+#: inc/widgets/widgets.php:294
+msgid "Google+ : "
+msgstr ""
+
+#: inc/widgets/widgets.php:298
+msgid "Twitter :"
+msgstr ""
+
+#: inc/widgets/widgets.php:303
+msgid " LinkedIn :"
+msgstr ""
+
+#: inc/widgets/widgets.php:308
+msgid "YouTube :"
+msgstr ""
+
+#: inc/widgets/widgets.php:313
+msgid "Flickr :"
+msgstr ""
+
+#: search.php:23
+msgid "Search Results for:"
+msgstr ""
+
+#: searchform.php:13 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search in here &hellip;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:29
+msgid "NEXT POST"
+msgstr ""
+
+#: single.php:30
+msgid "Next post:"
+msgstr ""
+
+#: single.php:32
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: single.php:33
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "Please Try with Different Search Keywords."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-search.php:45
+#: template-parts/content-single.php:44 template-parts/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32 template-parts/content-single.php:84
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-search.php:40 template-parts/content.php:56
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/content-single.php:117
+msgid "Related Posts"
+msgstr ""
+
+#. translators: About title of the post
+#: template-parts/content.php:54
+msgid "Read more %s ..."
+msgstr ""
+
+#: template-parts/content.php:54
+msgid "about "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "NewsMagZ"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themepacific.com/newsmagz-free/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"NewsMagz is an Ultra Fast Responsive free WordPress theme for News, News "
+"Paper, magazines, tech blogs, Personal Blogs, Fashion blogs and photography, "
+"Photogallery Blogs. Theme is very responsive, highly customizable built with "
+"Bootstrap. It comes with the flat, minimalist, magazine style homepage "
+"Design with boxed layout, Featured Grid Slider, Multi Style Drop-down Menu. "
+"Awesome design for Categories, Tags, Archive pages with Mutiple Sidebars and "
+"Ad, Category Widgets. newsmagz Offers SEO friendly, Retina ready, Mobile "
+"Optimized design and Google Adsense Banner features. Also, It features "
+"Custom Backgrounds, theme cutomizer options. newsmagz supports many 3rd "
+"party plugins, compatiple with Jetpack,Contact Form 7,WP Product Review, "
+"Page Builder. newsmagz is Translation ready theme supports WPML. For demo: "
+"http://demo.themepacific.com/newsmagz"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemePacific"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themepacific.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""

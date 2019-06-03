@@ -1,0 +1,311 @@
+.customize-control-title {
+    margin-top: 15px;
+    color: rgb(0, 142, 214);
+}
+.newsmagz_repeater_container,
+.newsmagz_general_control_repeater_container {
+    float: left;
+    width: 100%;
+    padding: 5px 0;
+    cursor: move;
+}
+.newsmagz_repeater_container .newsmagz-box-content-hidden,
+.newsmagz_general_control_repeater_container .newsmagz-box-content-hidden {
+    padding: 5px;
+    padding-top: 0;
+    border: 1px solid #dfdfdf;
+    border-top: 0;
+}
+button.newsmagz_remove_field {
+    display: inline-block;
+    float: right;
+    width: 25% !important;
+    height: 57px !important;
+    line-height: 17px !important;
+    white-space: initial !important;
+}
+button.newsmagz_general_control_remove_field {
+    width: 100%;
+    margin-top: 10px!important;
+}
+button.newsmagz_general_control_remove_field:hover {
+    border: 0;
+    color: #fff!important;
+    background-color: #00a0d2!important;
+}
+.newsmagz_repeater_container .newsmagz_icon_link,
+.newsmagz_general_control_repeater_container .newsmagz_text_control,
+.newsmagz_general_control_repeater_container .newsmagz_link_control {
+    width: 100% !important;
+    margin: 3px 0 0 !important;
+}
+.newsmagz_repeater_container .newsmagz_icons,
+.newsmagz_general_control_repeater_container .newsmagz_icon_control {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#newsmagz_new_field,
+#newsmagz_general_control_new_field {
+    width: 100%;
+}
+.customize-control-widget_form .widget-control-save {
+    display: block !important;
+}
+.newsmagz-ad-widget {
+    position: relative;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto 10px;
+}
+.newsmagz-ad-widget-top {
+    padding: 0;
+    border: 1px solid #e5e5e5;
+    color: #23282d;
+    background: #fafafa;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.4em;
+    -webkit-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+}
+.newsmagz-ad-widget-inside {
+    display: none;
+}
+.newsmagz-ad-widget-title {
+    overflow: hidden;
+    margin: 0;
+    padding: 0 15px;
+    font-size: 1em;
+    font-size: 1em;
+    line-height: 1;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.newsmagz-ad-widget-inside {
+    padding: 1px 10px 10px;
+    border: 1px solid #e5e5e5;
+    border-top: none;
+    background: #fff;
+    line-height: 16px;
+}
+.newsmagz_our_services_image_control {
+    display: none;
+}
+.newsmagz_our_services_icon_control {
+    display: none;
+}
+.newsmagz_general_control_repeater_container .newsmagz-box-content-hidden {
+    display: none;
+}
+.newsmagz-box-content-hidden {
+    background-color: #fff;
+}
+.newsmagz-customize-control-title {
+    overflow: hidden;
+    height: 40px;
+    padding: 0 10px !important;
+    border: 1px solid #dfdfdf;
+    border-radius: 3px;
+    color: #00a0d2;
+    background-color: #f1f1f1;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#ececec));
+    background-image: -webkit-linear-gradient(top, #f9f9f9, #ececec);
+    -webkit-box-shadow: inset 0 1px 0 #fff;
+    box-shadow: inset 0 1px 0 #fff;
+    font-weight: bold;
+    line-height: 40px !important;
+    text-align: center;
+    cursor: move !important;
+}
+.newsmagz_image_control .custom_media_button_newsmagz {
+    margin-top: 5px;
+}
+#customize-control-newsmagz_contact_form_shortcode {
+    display: none;
+}
+.newsmagz_radio_control {
+    margin-top: 0;
+}
+.newsmagz_general_control_repeater_container .newsmagz-box-content-hidden {
+    padding-top: 5px;
+}
+#accordion-section-newsmagz_shop_section .accordion-section-title,
+#accordion-section-newsmagz_blocks_order .accordion-section-title,
+#accordion-section-newsmagz_features_ribbon_section .accordion-section-title,
+#accordion-section-newsmagz_portfolio_section .accordion-section-title,
+#accordion-section-newsmagz_shortcodes_section .accordion-section-title,
+#accordion-section-newsmagz_new_features .accordion-section-title {
+    background-image: url(../images/gray-lines.png);
+    background-repeat: repeat;
+}
+#accordion-section-newsmagz_shop_section .accordion-section-title:after,
+#accordion-section-newsmagz_blocks_order .accordion-section-title:after,
+#accordion-section-newsmagz_features_ribbon_section .accordion-section-title:after,
+#accordion-section-newsmagz_portfolio_section .accordion-section-title:after,
+#accordion-section-newsmagz_shortcodes_section .accordion-section-title:after,
+#accordion-section-newsmagz_new_features .accordion-section-title:after {
+    content: "\f160";
+}
+.newsmagz-theme-info a {
+    display: block;
+    padding: 4px 10px;
+    text-decoration: none;
+    text-align: left;
+}
+
+/* Customizer UI */
+.customize-control {
+    position: relative;
+    margin-bottom: 0;
+    padding: 8px 15px;
+    background: #fff;
+    box-sizing: border-box;
+}
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+    padding: 10px;
+}
+
+.customize-control-pro_options + .tab-title,
+.customize-section-description-container + .tab-title {
+    margin-top: 0 !important;
+}
+
+.tab-title {
+    width: auto;
+    padding: 10px 15px 10px 15px;
+    margin-top: 30px;
+    border-bottom: 1px solid #eee;
+    color: #333;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.customize-control-checkbox label {
+    padding: 0;
+}
+
+#customize-theme-controls .customize-pane-child.accordion-section-content li:last-of-type {
+    padding-bottom: 20px
+}
+
+#customize-control-tpa_options-top_bar_label,
+#customize-control-tpa_options-preloader_label,
+#customize-control-tpa_options-social_media_window {
+    padding-bottom: 8px !important;
+}
+
+.customize-control.customize-control-color,
+.customize-control.customize-control-color .wp-color-result {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+/* Control Lock */
+.control-lock {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.15);
+    cursor: not-allowed;
+}
+
+
+/* Social Media Select */
+li[id*="customize-control-tpa_options-social_media_icon"] select {
+    font-family: "FontAwesome";
+    float: right;
+    width: 80px;
+}
+
+li[id*="customize-control-tpa_options-social_media_icon"] label {
+    float: left;
+}
+
+/* Copyright */
+#customize-control-tpa_options-page_footer_copyright strong {
+  background-color: #eee;
+  padding: 0 5px;
+}
+
+/* Custom CSS */
+#customize-control-custom_css {
+    padding: 0 !important;
+    background-color: transparent;
+}
+
+
+/* Fix Labels */
+#customize-control-tpa_options-top_bar_label,
+#customize-control-tpa_options-featured_links_label {
+    width: 100% !important;
+    padding-bottom: 15px !important;
+}
+
+/* Pro Version */
+#customize-control-pro_version_ a.button-primary {
+    text-align: center;
+}
+
+li[id*="pro_version"] {
+    position: relative;
+    padding: 0 !important;
+    margin-top: 30px;
+    background: transparent;
+}
+
+li[id*="pro_version"] .dashicons {
+    float: left;
+    font-size: 20px;
+    margin-top: -1px;
+    margin-right: 10px;
+}
+
+li[id*="pro_version"] a {
+    color: #0085ba;
+    text-decoration: none;
+    outline: none !important;
+}
+
+#accordion-section-tpa_pro h3 {
+  color: #fff !important;
+  background-color: #008EC2 !important;
+}
+
+#accordion-section-tpa_pro h3:after {
+  color: #fff !important;
+}
+
+.customize-control-pro_options .control-lock {
+    display: none !important;
+}
+
+#customize-control-pro_version_ ul li p a {
+    padding: 0 !important;
+    background-color: transparent !important;
+    color: #0073aa !important;
+    box-shadow: none !important;
+}
+
+#customize-control-pro_version_ h3 span {
+    color: red;
+    font-weight: bold;
+}
+
+#customize-control-pro_version_logo {
+    margin-bottom: 30px !important;
+}
+
+/* Display Header Text Color */
+#customize-control-header_textcolor {
+    display: block !important;
+}
